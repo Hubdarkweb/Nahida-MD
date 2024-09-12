@@ -14,8 +14,8 @@ global.ig = '@ziyoo' // ubah aja
 global.email = 'sanzzkece@gmail.com' //serah
 global.region = 'indonesia' // serah
 global.ownername = 'Always ziyo' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.owner = ['62831234487089'] // ubah aja pake nomor lu
-global.wanumber = ['62831234487089'] // ketika ketik .owner
+global.owner = ['254112386921'] // ubah aja pake nomor lu
+global.wanumber = ['254112386921'] // ketika ketik .owner
 global.botname = 'Nahida - MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 //==========================[ Masukin Apikey nya ]=======================//
 global.keyopenai = '_'
